@@ -14,3 +14,5 @@ langchain-chroma==1.1.0
 langchain-text-splitters
 langchain-huggingface 
 sentence-transformers
+fonttools
+pydantic
